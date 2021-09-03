@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My All Time Coding Stats (Since Aug 18th 2021)
+### My All Time Coding Activity (Since Aug 18th 2021)
 <!--START_SECTION:waka-week-->
 ```text
 Python     20 hrs 18 mins  ████████████▓░░░░░░░░░░░░   50.83 % 
@@ -11,7 +11,7 @@ Markdown   59 mins         ▓░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-week-->
 
-### My Coding Stats For This Week
+### My Coding Activity For This Week
 <!--START_SECTION:waka-week-->
 ```text
 Python       6 hrs 45 mins   █████████████▓░░░░░░░░░░░   54.51 % 
