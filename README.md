@@ -27,4 +27,4 @@ Git Config   2 mins          ░░░░░░░░░░░░░░░░░
 ---
 
 ### My Github Stats
-![](https://github-readme-stats.vercel.app/api?username=eroxl)
+![](https://github-readme-stats.vercel.app/api?username=eroxl&count_private=true&show_icons=true&theme=onedark)
