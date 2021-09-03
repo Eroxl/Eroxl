@@ -25,3 +25,5 @@ Git Config   2 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-week-->
 
 ---
+
+[![Erox1's GitHub stats](https://github-readme-stats.vercel.app/api?username=eroxl)]
