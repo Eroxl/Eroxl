@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 🙂
 
 ### My All Time Coding Activity (Since Aug 18th 2021)
 <!--START_SECTION:waka-week-->
