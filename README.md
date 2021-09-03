@@ -1,5 +1,6 @@
 ### Hi 🙂
 
+---
 ### My All Time Coding Activity (Since Aug 18th 2021)
 <!--START_SECTION:waka-week-->
 ```text
@@ -10,6 +11,7 @@ Octave     1 hr 7 mins     ▓░░░░░░░░░░░░░░░░�
 Markdown   59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 <!--END_SECTION:waka-week-->
+---
 
 ### My Coding Activity For This Week
 <!--START_SECTION:waka-week-->
@@ -21,3 +23,4 @@ Markdown     15 mins         ▓░░░░░░░░░░░░░░░░
 Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-week-->
+---
