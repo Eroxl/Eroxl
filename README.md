@@ -5,26 +5,26 @@
 ### My All Time Coding Activity (Since Aug 18th 2021)
 <!--START_SECTION:waka-all-->
 ```text
-Total Time 144 hrs 8 mins
+Total Time 147 hrs 55 mins
 
-Python       87 hrs 19 mins  ███████████████░░░░░░░░░░   60.58 % 
-TypeScript   13 hrs 5 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-C#           11 hrs 48 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-JSON         8 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-JavaScript   5 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Python       88 hrs 10 mins  ███████████████░░░░░░░░░░   59.61 % 
+TypeScript   14 hrs 16 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+C#           11 hrs 48 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+JSON         8 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+JavaScript   5 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 ```
 <!--END_SECTION:waka-all-->
 
 ### My Coding Activity For This Week
 <!--START_SECTION:waka-week-->
 ```text
-Total Time 21 hrs 32 mins
+Total Time 21 hrs 4 mins
 
-TypeScript   6 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   28.99 % 
-Python       6 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-JavaScript   3 hrs 51 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.94 % 
-JSON         2 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-C#           49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+TypeScript   7 hrs 26 mins   ████████▓░░░░░░░░░░░░░░░░   35.30 % 
+Python       4 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   19.11 % 
+JavaScript   3 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.34 % 
+JSON         2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Docker       1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 <!--END_SECTION:waka-week-->
 
