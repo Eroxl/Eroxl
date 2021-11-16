@@ -8,7 +8,7 @@
 Total Time 247 hrs 37 mins
 
 Python       96 hrs 41 mins  █████████▓░░░░░░░░░░░░░░░   39.05 % 
-TypeScript   60 hrs 52 mins  ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+TypeScript   60 hrs 52 mins  ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
 Svelte       18 hrs 53 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 JSON         13 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 JavaScript   12 hrs 20 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
@@ -18,13 +18,13 @@ JavaScript   12 hrs 20 mins  █▒░░░░░░░░░░░░░░░
 ### My Coding Activity For This Week
 <!--START_SECTION:waka-week-->
 ```text
-Total Time 32 hrs 1 min
+Total Time 28 hrs 30 mins
 
-TypeScript   23 hrs 43 mins  ██████████████████▓░░░░░░   74.06 % 
-Other        2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-JavaScript   1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-JSON         1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Markdown     49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+TypeScript   23 hrs 43 mins  ████████████████████▓░░░░   83.17 % 
+JavaScript   1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JSON         1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Svelte       31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 <!--END_SECTION:waka-week-->
 
