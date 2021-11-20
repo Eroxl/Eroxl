@@ -18,13 +18,13 @@ JavaScript   12 hrs 20 mins  █▒░░░░░░░░░░░░░░░
 ### My Coding Activity For This Week
 <!--START_SECTION:waka-week-->
 ```text
-Total Time 15 hrs 5 mins
+Total Time 6 hrs 53 mins
 
-TypeScript   12 hrs 47 mins  █████████████████████▒░░░   84.71 % 
-Svelte       1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-JavaScript   46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-XML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+TypeScript   5 hrs 4 mins    ██████████████████▒░░░░░░   73.64 % 
+Svelte       45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+JavaScript   36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+XML          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 <!--END_SECTION:waka-week-->
 
