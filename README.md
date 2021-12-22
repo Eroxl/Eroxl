@@ -31,4 +31,5 @@ Git Config   18 mins         ▓░░░░░░░░░░░░░░░░
 ---
 
 ### My Github Stats
-[![](https://github-readme-stats.vercel.app/api?username=eroxl&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/Eroxl)
+[![](https://github-readme-stats.vercel.app/api?username=eroxl&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)]()
+[![](https://github-readme-streak-stats.herokuapp.com/?theme=onedark&user=eroxl)]()
