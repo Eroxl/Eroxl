@@ -5,26 +5,26 @@
 ### My All Time Coding Activity (Since Aug 18th 2021)
 <!--START_SECTION:waka-all-->
 ```text
-Total Time 290 hrs 49 mins
+Total Time 292 hrs 48 mins
 
-Python       98 hrs 47 mins  ████████▒░░░░░░░░░░░░░░░░   33.96 % 
-TypeScript   75 hrs 7 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.83 % 
-Svelte       22 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-JSON         15 hrs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-JavaScript   13 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Python       98 hrs 48 mins  ████████▒░░░░░░░░░░░░░░░░   33.74 % 
+TypeScript   75 hrs 11 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.67 % 
+Svelte       22 hrs 43 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+JSON         15 hrs 1 min    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+JavaScript   14 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 <!--END_SECTION:waka-all-->
 
 ### My Coding Activity For This Week
 <!--START_SECTION:waka-week-->
 ```text
-Total Time 10 hrs 13 mins
+Total Time 9 hrs 17 mins
 
-TypeScript   6 hrs 23 mins   ███████████████▓░░░░░░░░░   62.49 % 
-Python       1 hr 35 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-JavaScript   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-JSON         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Git Config   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+TypeScript   4 hrs 48 mins   █████████████░░░░░░░░░░░░   51.78 % 
+JavaScript   1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Python       1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Svelte       42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Git Config   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 <!--END_SECTION:waka-week-->
 
