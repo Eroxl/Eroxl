@@ -18,13 +18,13 @@ JSON         15 hrs 1 min    █▒░░░░░░░░░░░░░░░
 ### My Coding Activity For This Week
 <!--START_SECTION:waka-week-->
 ```text
-Total Time 9 hrs 57 mins
+Total Time 9 hrs 18 mins
 
-TypeScript   5 hrs 9 mins    █████████████░░░░░░░░░░░░   51.77 % 
-JavaScript   2 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.67 % 
-Svelte       1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Python       1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+TypeScript   5 hrs 9 mins    ██████████████░░░░░░░░░░░   55.38 % 
+JavaScript   2 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.18 % 
+Svelte       1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Python       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 <!--END_SECTION:waka-week-->
 
