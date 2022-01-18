@@ -14,9 +14,3 @@ JavaScript   16 hrs 39 mins  █▒░░░░░░░░░░░░░░░
 JSON         16 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
 <!--END_SECTION:waka-all-->
-
----
-
-### My Github Stats
-[![](https://github-readme-stats.vercel.app/api?username=eroxl&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)](#)
-[![](https://github-readme-streak-stats.herokuapp.com/?theme=onedark&user=eroxl)](#)
