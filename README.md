@@ -15,19 +15,6 @@ JSON         16 hrs 2 mins   █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-all-->
 
-### My Coding Activity For This Week
-<!--START_SECTION:waka-week-->
-```text
-Total Time 14 hrs 27 mins
-
-TypeScript   9 hrs 49 mins   █████████████████░░░░░░░░   67.94 % 
-Python       2 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-JavaScript   1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-JSON         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-```
-<!--END_SECTION:waka-week-->
-
 ---
 
 ### My Github Stats
