@@ -5,12 +5,12 @@
 ### My All Time Coding Activity (Since Aug 18th 2021)
 <!--START_SECTION:waka-all-->
 ```text
-Total Time 363 hrs 11 mins
+Total Time 371 hrs 18 mins
 
-TypeScript   121 hrs 44 mins ████████▒░░░░░░░░░░░░░░░░   33.51 % 
-Python       109 hrs 7 mins  ███████▓░░░░░░░░░░░░░░░░░   30.04 % 
-Svelte       23 hrs 41 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-JSON         18 hrs 36 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-JavaScript   17 hrs 50 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+TypeScript   129 hrs 39 mins ████████▓░░░░░░░░░░░░░░░░   34.91 % 
+Python       109 hrs 7 mins  ███████▒░░░░░░░░░░░░░░░░░   29.38 % 
+Svelte       23 hrs 41 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+JSON         18 hrs 36 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+JavaScript   17 hrs 50 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 ```
 <!--END_SECTION:waka-all-->
