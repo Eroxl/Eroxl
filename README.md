@@ -6,6 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 426 hrs 22 mins
+
 TypeScript   171 hrs 30 mins ██████████░░░░░░░░░░░░░░░   39.68 %
 Python       124 hrs 30 mins ███████▒░░░░░░░░░░░░░░░░░   28.81 %
 Svelte       23 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
