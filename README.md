@@ -3,7 +3,7 @@
 ---
 
 ### <a href="https://wakatime.com/@Eroxl">My All Time Coding Activity (Since Aug 18th 2021)</a>
-<!--START_SECTION:waka-all-->
+<!--START_SECTION:waka-->
 ```text
 Total Time 438 hrs 30 mins
 
@@ -13,4 +13,4 @@ Svelte       23 hrs 54 mins  █▒░░░░░░░░░░░░░░░
 JSON         19 hrs 21 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 JavaScript   18 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
-<!--END_SECTION:waka-all-->
+<!--END_SECTION:waka-->
