@@ -6,14 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 513 hrs 38 mins
-
-TypeScript   232 hrs 13 mins ███████████░░░░░░░░░░░░░░   44.65 %
-Python       125 hrs 31 mins ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-Svelte       23 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-JSON         22 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-JavaScript   19 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Markdown     16 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
