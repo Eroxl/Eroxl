@@ -3,6 +3,7 @@
 ---
 
 ### <a href="https://wakatime.com/@Eroxl">My All Time Coding Activity (Since Aug 18th 2021)</a>
+My goal is to get to 10,000 hours eventually :)
 <!--START_SECTION:waka-->
 
 ```text
