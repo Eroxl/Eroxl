@@ -9,7 +9,7 @@ My goal is to get to 10,000 hours eventually :)
 ```txt
 Total Time: 925 hrs
 
-TypeScript   496 hrs 15 mins █████████████▒░░░░░░░░░░░   53.65 %
+TypeScript   496 hrs 16 mins █████████████▒░░░░░░░░░░░   53.65 %
 Python       142 hrs 50 mins ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
 Markdown     58 hrs 28 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
 JSON         33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
