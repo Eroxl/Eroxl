@@ -7,12 +7,12 @@ My goal is to get to 10,000 hours eventually :)
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,693 hrs 38 mins
+Total Time: 1,697 hrs 12 mins
 
-TypeScript                 951 hrs 18 mins       ██████████████░░░░░░░░░░░   56.17 %
-Python                     158 hrs 10 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Markdown                   126 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Rust                       62 hrs 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+TypeScript                 953 hrs 46 mins       ██████████████░░░░░░░░░░░   56.20 %
+Python                     158 hrs 10 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+Markdown                   126 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Rust                       62 hrs 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 CSS                        45 hrs 37 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
