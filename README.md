@@ -1,5 +1,7 @@
 ### Hi 🙂
 
+Currently trying to get my rust hours above 100hrs
+
 ---
 
 ### <a href="https://wakatime.com/@Eroxl">My All Time Coding Activity (Since Aug 18th 2021)</a>
